@@ -1,5 +1,7 @@
 # Syncloud Wiki in multiple languages (unofficial/test)
 
+*Translation is under development. Please, rely on the original version in english.*
+
 * en
 * [de](https://github.com/klmhsb42/wiki-translate/blob/main/de/index.md)
 * [cn](https://github.com/klmhsb42/wiki-translate/blob/main/cn/index.md)
