@@ -11,4 +11,8 @@
 
 ## Contribute
 
-Each language has an own folder including one index.md and one folder "content" with translated pages. You can add new languages, new pages or edit them.
+* Each language has an own folder including 
+  * one index.md 
+  * one folder "content" with translated pages. 
+* You can add new languages, new pages or edit them.
+* Each page should refer to the other languages (their pages with same content)
