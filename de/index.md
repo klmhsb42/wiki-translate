@@ -8,3 +8,7 @@ de |
 # Home
 
 content
+
+## Pages
+
+* [first](https://github.com/klmhsb42/wiki-translate/blob/main/de/content/first.md)
