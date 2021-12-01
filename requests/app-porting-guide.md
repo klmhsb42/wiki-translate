@@ -1,6 +1,6 @@
 ### Request publishing to Syncloud store
 
-Create an issue on [Syncloud/platform](https://github.com/syncloud/platform/issues). You can link to your repository in the respective issue. It's functionality and compatibility will be reviewed, and to fit our guidelines (open source). If yes, it will then be published.
+Create an [issue](https://github.com/syncloud/platform/issues). You can link to your repository in the respective issue. It's functionality and compatibility will be reviewed, and to fit our guidelines (open source). If yes, it will then be published.
 
 ### Add badges to your website
 
