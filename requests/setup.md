@@ -12,13 +12,17 @@ Syncloud is free and open source. All your data will be stored at home, which yo
 
 ---
 
-Audio3:(Frame3){
-First, it’s time to get a Syncloud device. 
-}
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/3.png" alt="" width="400"/>
 
-Audio4:(Frame4-13){
+First, it’s time to get a Syncloud device. 
+
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/13.png" alt="" width="400"/>
+
 You can buy a plug-and-play device in our shop. You can find our shop under shop dot syncloud dot org.
-}
+
+---
 
 Audio5:(Frame14){
 Later, you must connect your device to your router and depending on the device type, to an external storage, as well. We offer two types of devices.
