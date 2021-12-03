@@ -20,57 +20,81 @@ First, it’s time to get a Syncloud device.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/13.png" alt="" width="400"/>
 
-You can buy a plug-and-play device in our shop. You can find our shop under shop dot syncloud dot org.
+You can buy a plug-and-play device in our shop. You can find our shop under https://shop.syncloud.org.
 
 ---
 
-Audio5:(Frame14){
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/14.png" alt="" width="400"/>
+
 Later, you must connect your device to your router and depending on the device type, to an external storage, as well. We offer two types of devices.
-}
 
-Audio6:(Frame15){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/15.png" alt="" width="400"/>
+
 One type, which requires an external storage.
-}
 
-Audio7:(Frame16){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/16.png" alt="" width="400"/>
+
 And another type, which has already an internal storage and does not require an external storage. However, you can still use an external storage if you want. Keep in mind, that you can use only one storage a time.
-}
 
-Audio8:(Frame17-18){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/18.png" alt="" width="400"/>
+
 Add the device of choice to the shopping cart.
-}
 
-Audio9:(Frame19-20){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/20.png" alt="" width="400"/>
+
 Get your device delivered to any country.
-}
 
-Audio10:(Frame21){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/21.png" alt="" width="400"/>
+
 And fall in love, when you hold it first time in your hands.
-}
 
-Audio11:(Frame22){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/22.png" alt="" width="400"/>
+
 In a second step, you must connect everything.
-}
 
-Audio12:(Frame23){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/23.png" alt="" width="400"/>
+
 Plug in your device to power supply and connect it with your router by a ethernet cable.
-}
 
-Audio13:(Frame24-25){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/25.png" alt="" width="400"/>
+
 Depending on your device type, plug in an external storage, as well.
-}
 
-Audio14:(Frame26){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/26.png" alt="" width="400"/>
+
 Now, there comes the activation.
-}
 
-Audio15:(Frame27){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/27.png" alt="" width="400"/>
+
 Connect your smartphone to the Wifi of your router.
-}
 
-Audio16:(Frame28){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/28.png" alt="" width="400"/>
+
 Download our Syncloud app for Android or your I phone.
-}
+
+---
 
 Audio17:(Frame29){
 Open the app and sign in. You can use your username and password from your shop account.
