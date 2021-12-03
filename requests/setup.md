@@ -1,4 +1,10 @@
-# How to setup
+# How to setup (Demo)
+
+Screenshots belong to [release 20.04](https://github.com/syncloud/platform/releases/tag/20.04-rc1)
+
+You can watch our [video](https://www.youtube.com/watch?v=xI_I8yNOzNE) on youtube or follow this guide:
+
+---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/1.png" alt="" width="400"/>
 
