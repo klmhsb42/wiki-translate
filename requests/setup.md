@@ -1,17 +1,16 @@
-# How to Syncloud
+# How to setup
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/1.png" alt="" width="400"/>
 
-Audio1:(Frame1){
-Hello world,
-This is Syncloud and I will show you how to setup your device. 
-}
+Hello world, This is Syncloud and I will show you how to setup your device. 
 
 ---
 
-Audio2:(Frame2){
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/2.png" alt="" width="400"/>
+
 Syncloud is free and open source. All your data will be stored at home, which you can easily access from all over the world.
-}
+
+---
 
 Audio3:(Frame3){
 First, it’s time to get a Syncloud device. 
