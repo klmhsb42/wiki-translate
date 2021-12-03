@@ -96,49 +96,71 @@ Download our Syncloud app for Android or your I phone.
 
 ---
 
-Audio17:(Frame29){
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/29.png" alt="" width="400"/>
+
 Open the app and sign in. You can use your username and password from your shop account.
-}
 
-Audio18:(Frame30){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/30.png" alt="" width="400"/>
+
 Then, press the plus button to search your device. If you have found it, click on the device name.
-}
 
-Audio19:(Frame31){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/31.png" alt="" width="400"/>
+
 Your browser will open, and the activation interface should appear. If there is a security warning, you can click on more or advanced and accept the risk.
-}
 
-Audio20:(Frame32){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/32.png" alt="" width="400"/>
+
 You will see the activation interface.
-}
 
-Audio21:(Frame33){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/33.png" alt="" width="400"/>
+
 Type in your e mail address and password same as in the shop or in the app. Type in a name you want to have for your device. With this URL, you will later access your device by the browser.
-}
 
-Audio22:(Frame34){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/34.png" alt="" width="400"/>
+
 Create then an account with which you can sign into your device later. Use any username and password.
-}
 
-Audio23:(Frame35){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/35.png" alt="" width="400"/>
+
 Press then activation. This can take a few minutes. 
-}
 
-Audio24:(Frame36){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/36.png" alt="" width="400"/>
+
 After that, you will get redirect to your device user interface with your chosen URL. Same issue again, if there is a security warning, you can click on more or advanced and accept the risk. A certificate will be created for you soon to allow a secure access to your device. If you don’t have a certificate till next day, please contact our support.
-}
 
-Audio25:(Frame37){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/37.png" alt="" width="400"/>
+
 If you can not access the device user interface by your URL, there is probably a so called “DNS rebind protection” in your router settings. Please browse to the web interface of your router and check for DNS rebind protection under your network settings. Add an exception for the domain Syncloud dot it. Now, you should be able to access your device by your URL. If not, please contact our support.
-}
 
-Audio26:(Frame38){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/38.png" alt="" width="400"/>
+
 Now, you can make your device accessible from extern, if you want. For that, you must find out if you have version 4 or version 6 of IP address.
-}
 
-Audio27:(Frame39){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/39.png" alt="" width="400"/>
+
 That, you can find out in your device user interface under settings. Click then on Network. If you have IPv6, it will appear with the IP address of your device.
-}
+
+---
 
 Audio28:(Frame40){
 With IPv6 you can access your device from extern by default, so you don’t have to activate external access in the device settings. However, you must know, that you can only access from an IPv6 network and that you cannot access from an IPv4 network. Sadly, many public networks like of companies or schools and many mobile networks do not have IPv6 support.
