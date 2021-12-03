@@ -162,61 +162,84 @@ That, you can find out in your device user interface under settings. Click then 
 
 ---
 
-Audio28:(Frame40){
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/40.png" alt="" width="400"/>
+
 With IPv6 you can access your device from extern by default, so you don’t have to activate external access in the device settings. However, you must know, that you can only access from an IPv6 network and that you cannot access from an IPv4 network. Sadly, many public networks like of companies or schools and many mobile networks do not have IPv6 support.
-}
 
-Audio29:(Frame41-43){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/43.png" alt="" width="400"/>
+
 If you have IPv4, you must enable external access in your device settings. You must open two ports in your router called 80 and 443. You can try to do this with auto mode and save. Sometimes it fails. However, there is no reason to worry.
-}
 
-Audio30:(Frame44){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/44.png" alt="" width="400"/>
+
 You probably must enable UPnP in your router settings. Then try it again.
-}
 
-Audio31:(Frame45){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/45.png" alt="" width="400"/>
+
 If it fails again, you must open the two ports manually in your router settings. Open 80 for HTTP and 443 for HTTPS.
-}
 
-Audio32:(Frame46){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/46.png" alt="" width="400"/>
+
 Then, type 80 and 443 in the input fields in the device user interface and save. Now, you should be able to enable external access. If not, please contact our support.
-}
 
-Audio33:(Frame47){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/47.png" alt="" width="400"/>
+
 Now, you are ready to discover and enjoy your new device.
-}
 
-Audio34:(Frame48){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/48.png" alt="" width="400"/>
+
 Go to our app center to install an app. Click on any app, for example Nextcloud.
-}
 
-Audio35:(Frame49-50){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/50.png" alt="" width="400"/>
+
 Click on Install and wait untill the Open button appears. Enjoy your new app. Besides that, you can upgrade, backup or remove the app.
-}
 
-Audio36:(Frame51){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/51.png" alt="" width="400"/>
+
 For some apps, you have to open ports in your router.
-}
 
-Audio37:(Frame52){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/52.png" alt="" width="400"/>
+
 For example, the Mail server app needs open port 25.
-}
 
-Audio38:(Frame53){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/53.png" alt="" width="400"/>
+
 Or the OpenVPN app needs open port 1194. You can find further information in our documentation.
-}
 
-Audio39:(Frame54-56){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/56.png" alt="" width="400"/>
+
 Please visit our FAQs and documentation before contacting our support.
-}
 
-Audio40:(Frame57-60){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/60.png" alt="" width="400"/>
+
 If you like Syncloud, please support us. You can rate our products in the shop, participate on the code on GitHub, donate or buy more products in our shop and tell other persons about Syncloud.
-}
 
-Audio41:(Frame61){
+---
+
+<img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/61.png" alt="" width="400"/>
+
 Thanks for watching. Your Syncloud team.
-}
-
-
-
