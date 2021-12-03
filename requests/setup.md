@@ -146,13 +146,13 @@ After that, you will get redirect to your device user interface with your chosen
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/37.png" alt="" width="400"/>
 
-If you can not access the device user interface by your URL, there is probably a so called “DNS rebind protection” in your router settings. Please browse to the web interface of your router and check for DNS rebind protection under your network settings. Add an exception for the domain Syncloud dot it. Now, you should be able to access your device by your URL. If not, please contact our support.
+If you can not access the device user interface by your URL, there is probably a so called [DNS rebind protection](https://github.com/syncloud/platform/wiki/External-access) in your router settings. Please browse to the web interface of your router and check for DNS rebind protection under your network settings. Add an exception for the domain https://syncloud.it. Now, you should be able to access your device by your URL. If not, please contact our support.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/38.png" alt="" width="400"/>
 
-Now, you can make your device accessible from extern, if you want. For that, you must find out if you have version 4 or version 6 of IP address.
+Now, you can make your device [accessible from extern](https://github.com/syncloud/platform/wiki/External-access), if you want. For that, you must find out if you have version 4 or version 6 of IP address.
 
 ---
 
