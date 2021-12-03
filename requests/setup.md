@@ -8,7 +8,7 @@ Hello world, This is Syncloud and I will show you how to setup your device.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/2.png" alt="" width="400"/>
 
-Syncloud is free and open source. All your data will be stored at home, which you can easily access from all over the world.
+Syncloud is [free and open source](https://github.com/syncloud/platform/blob/master/LICENSE). All your data will be stored at home, which you can easily access from all over the world.
 
 ---
 
@@ -26,7 +26,7 @@ You can buy a plug-and-play device in our shop. You can find our shop under http
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/14.png" alt="" width="400"/>
 
-Later, you must connect your device to your router and depending on the device type, to an external storage, as well. We offer two types of devices.
+Later, you must connect your device to your router and depending on the device type, to an [external storage](https://github.com/syncloud/platform/wiki/External-Disk), as well. We offer two types of devices.
 
 ---
 
@@ -80,7 +80,7 @@ Depending on your device type, plug in an external storage, as well.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/26.png" alt="" width="400"/>
 
-Now, there comes the activation.
+Now, there comes the [activation](https://github.com/syncloud/platform/wiki/Device-activation).
 
 ---
 
@@ -92,13 +92,13 @@ Connect your smartphone to the Wifi of your router.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/28.png" alt="" width="400"/>
 
-Download our Syncloud app for Android or your I phone.
+Download our [Syncloud app](https://github.com/syncloud/platform/wiki/Syncloud-Mobile-App) for Android or your iPhone.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/29.png" alt="" width="400"/>
 
-Open the app and sign in. You can use your username and password from your shop account.
+Open the app and sign in. You can use your username and password from your shop [account](https://github.com/syncloud/platform/wiki/Accounts).
 
 ---
 
@@ -122,13 +122,13 @@ You will see the activation interface.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/33.png" alt="" width="400"/>
 
-Type in your e mail address and password same as in the shop or in the app. Type in a name you want to have for your device. With this URL, you will later access your device by the browser.
+Type in your Email address and password same as in the shop or in the app. Type in a name you want to have for your device. With this URL, you will later access your device by the browser.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/34.png" alt="" width="400"/>
 
-Create then an account with which you can sign into your device later. Use any username and password.
+Create then an [account](https://github.com/syncloud/platform/wiki/Accounts) with which you can sign into your device later. Use any username and password.
 
 ---
 
@@ -140,7 +140,7 @@ Press then activation. This can take a few minutes.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/36.png" alt="" width="400"/>
 
-After that, you will get redirect to your device user interface with your chosen URL. Same issue again, if there is a security warning, you can click on more or advanced and accept the risk. A certificate will be created for you soon to allow a secure access to your device. If you don’t have a certificate till next day, please contact our support.
+After that, you will get redirect to your device user interface with your chosen URL. Same issue again, if there is a security warning, you can click on more or advanced and accept the risk. A [certificate](https://github.com/syncloud/platform/wiki/Custom-certificate) will be created for you soon to allow a secure access to your device. If you don’t have a certificate till next day, please contact our support.
 
 ---
 
