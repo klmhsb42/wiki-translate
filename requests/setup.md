@@ -188,7 +188,7 @@ If it fails again, you must open the two ports manually in your router settings.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/46.png" alt="" width="400"/>
 
-Then, type 80 and 443 in the input fields in the device user interface and save. Now, you should be able to enable external access. If not, please contact our support.
+Then, type 80 and 443 in the input fields in the device user interface and save. Now, you should be able to enable external access. If not, please contact our [support](syncloud@syncloud.it).
 
 ---
 
@@ -200,7 +200,7 @@ Now, you are ready to discover and enjoy your new device.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/48.png" alt="" width="400"/>
 
-Go to our app center to install an app. Click on any app, for example Nextcloud.
+Go to our app center to install an [app](https://github.com/syncloud/platform/wiki/App-access). Click on any app, for example Nextcloud.
 
 ---
 
@@ -218,25 +218,25 @@ For some apps, you have to open ports in your router.
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/52.png" alt="" width="400"/>
 
-For example, the Mail server app needs open port 25.
+For example, the [Mail server](https://github.com/syncloud/platform/wiki/Mail) app needs open port 25.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/53.png" alt="" width="400"/>
 
-Or the OpenVPN app needs open port 1194. You can find further information in our documentation.
+Or the [OpenVPN](https://github.com/syncloud/platform/wiki/VPN) app needs open port 1194. You can find further information in our documentation.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/56.png" alt="" width="400"/>
 
-Please visit our FAQs and documentation before contacting our support.
+Please visit our [FAQs](https://github.com/syncloud/platform/wiki/FAQ) and [documentation](https://github.com/syncloud/platform/wiki/) before contacting our support.
 
 ---
 
 <img src="https://github.com/syncloud/stuff/blob/master/demo/20200415/frames/60.png" alt="" width="400"/>
 
-If you like Syncloud, please support us. You can rate our products in the shop, participate on the code on GitHub, donate or buy more products in our shop and tell other persons about Syncloud.
+If you like Syncloud, please support us. You can rate our products in the [shop](https://shop.syncloud.org/), participate on the code on [GitHub](https://github.com/syncloud/), [donate](https://www.paypal.com/donate/?hosted_button_id=3DF9N49JJCRVY) or buy more products in our shop and tell other persons about Syncloud.
 
 ---
 
